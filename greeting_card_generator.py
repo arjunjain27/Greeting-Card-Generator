@@ -7,7 +7,7 @@
 import tkinter as tk
 import openai
 
-openai.api_key = "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"
+openai.api_key = "" #fill this in with personal key
 
 
 def generate_card():

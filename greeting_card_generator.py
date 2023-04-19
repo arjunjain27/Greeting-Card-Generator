@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[9]:
-
-
 import tkinter as tk
 import openai
 
@@ -69,10 +63,4 @@ generate_button.pack()
 card_label.pack()
 
 root.mainloop()
-
-
-# In[ ]:
-
-
-
 
